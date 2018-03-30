@@ -1,6 +1,6 @@
 # codelouisvilleproject
 
-Description
+# Description
 its an inspirational mock-up and work in pogress website. my goal is to create a visual minimal page. i really enjoy those types of website because they are simple visually but complex in the back-end. i started with a bootsrap framework and added my personal css and custom css i found on pencode as well.
 
 CSS Classes and ID's 
