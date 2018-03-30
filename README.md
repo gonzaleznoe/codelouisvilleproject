@@ -71,7 +71,7 @@ layout for the instagram feed
 .post
 
 
-#JS
+# JS
 
 **Instafeed**
 
