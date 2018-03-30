@@ -3,7 +3,7 @@
 # Description
 its an inspirational mock-up and work in pogress website. my goal is to create a visual minimal page. i really enjoy those types of website because they are simple visually but complex in the back-end. i started with a bootsrap framework and added my personal css and custom css i found on pencode as well.
 
-CSS Classes and ID's 
+# CSS Classes and ID's 
 Landing Page
 #banner - height, width, margin, display, top and background-size.
 .content - height, width, margin, text-align, padding-top, vertical-align and background-color.
