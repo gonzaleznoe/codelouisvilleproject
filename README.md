@@ -6,8 +6,11 @@ its an inspirational mock-up and work in pogress website. my goal is to create a
 # CSS Classes and ID's 
 Landing Page
 #banner - height, width, margin, display, top and background-size.
+
 .content - height, width, margin, text-align, padding-top, vertical-align and background-color.
+
 h1 - animation, font-size, color, text-align, font-family.
+
 @keyframes (custom glitch i found on codepen)
 
 .Contact and .rotate 
