@@ -83,19 +83,3 @@ makes showcase img float from the bottom while the text floats from the right an
 
 
 
-
-
-
-
-REQUIREMENTS
-jquery
-https://code.jquery.com/
-bootstrap
-https://www.bootstrapcdn.com/
-
-https://www.instagram.com/developer/
-  
- 
-
-
-
