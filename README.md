@@ -5,7 +5,7 @@ its an inspirational mock-up and work in pogress website. my goal is to create a
 
 # CSS Classes and ID's 
 **Landing Page**
-has a glitch effect on the word (digital underground) with a pink background
+has a glitch effect on the word (digital underground) with a pink background.
 
 #banner
 
@@ -16,14 +16,15 @@ h1
 @keyframes (custom glitch i found on codepen)
 
 **Contact**
-rotates the word (contact) 90deg
+rotates the word (contact) 90deg and it lives on the start of the page.
 
 .Contact 
 
 .rotate 
 
 
-**Mobile Nav** - rotates the nav 90deg and it lives ond the end of the page.
+**Mobile Nav** 
+rotates the nav 90deg and it lives ond the end of the page.
 
 .mobile-nav
 
@@ -35,9 +36,34 @@ rotates the word (contact) 90deg
 
 .right-contact
 
+**Showcase**
+has an img on the left and text on the right.
+
+#showcase
+
+.showcase 
+
+.showcase.fade-in
+
+#showcase img
+
+#showcase h2
+
+#showcase .showcase-right
+
+**Jumbotron**
+has a custom img with an opacity of 65.
+
+.jumbotron
 
 
+**Instafeed**
 
+layout for the instagram feed
+
+#instafeed
+
+.post
 
 
 REQUIREMENTS
